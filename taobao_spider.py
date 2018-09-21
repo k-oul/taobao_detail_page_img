@@ -9,7 +9,7 @@ import requests
 import re
 import json
 import time
-import sys
+# import sys
 from fake_useragent import UserAgent
 from concurrent.futures import ThreadPoolExecutor
 
